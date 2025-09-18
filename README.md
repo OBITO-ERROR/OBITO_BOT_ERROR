@@ -1,15 +1,15 @@
 ---------
 
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
+### 𝐎𝐁𝐈𝐓𝐎 𝐌𝐄𝐒𝐒𝐀𝐍𝐆𝐄𝐑 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
 
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to My 𝐎𝐁𝐈𝐓𝐎 CHAT BOT Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+![Box-shaped Image](https://i.imgur.com/7zy8wg9.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
